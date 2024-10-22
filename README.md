@@ -12,4 +12,7 @@ build a graph and pick the element from the graph with fewer remaining nodes.
 references
 Geek for geeks
 
+Front end- next.js, react
+Backend - flask, tesseract.js
+works for images of Jpeg and png (reactdropzone)
 
