@@ -1,3 +1,4 @@
+
 # N is the size of the 2D matrix   N*N
 N = 9
 
