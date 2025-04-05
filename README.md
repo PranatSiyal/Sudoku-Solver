@@ -9,10 +9,6 @@ Every time time we add/ remove an element from the grid we set bit to 1/0
 # 4.Cross hatching and backtracking
 build a graph and pick the element from the graph with fewer remaining nodes.
 
-references
-Geek for geeks
 
-Front end- next.js, react
-Backend - flask, tesseract.js
 works for images of Jpeg and png (reactdropzone)
 
