@@ -10,5 +10,4 @@ Every time time we add/ remove an element from the grid we set bit to 1/0
 build a graph and pick the element from the graph with fewer remaining nodes.
 
 
-works for images of Jpeg and png (reactdropzone)
-
+*works for images of Jpeg and png (reactdropzone)*
